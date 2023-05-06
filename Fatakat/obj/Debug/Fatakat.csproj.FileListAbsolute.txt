@@ -1,0 +1,14 @@
+D:\C# Projects\Fatakat\Fatakat\bin\Debug\Fatakat.exe.config
+D:\C# Projects\Fatakat\Fatakat\bin\Debug\Fatakat.exe
+D:\C# Projects\Fatakat\Fatakat\bin\Debug\Fatakat.pdb
+D:\C# Projects\Fatakat\Fatakat\bin\Debug\CalithaLib.dll
+D:\C# Projects\Fatakat\Fatakat\bin\Debug\GoldParserEngine.dll
+D:\C# Projects\Fatakat\Fatakat\obj\Debug\Fatakat.csproj.AssemblyReference.cache
+D:\C# Projects\Fatakat\Fatakat\obj\Debug\Fatakat.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\Fatakat\Fatakat\obj\Debug\Fatakat.Form1.resources
+D:\C# Projects\Fatakat\Fatakat\obj\Debug\Fatakat.Properties.Resources.resources
+D:\C# Projects\Fatakat\Fatakat\obj\Debug\Fatakat.csproj.GenerateResource.cache
+D:\C# Projects\Fatakat\Fatakat\obj\Debug\Fatakat.csproj.CoreCompileInputs.cache
+D:\C# Projects\Fatakat\Fatakat\obj\Debug\Fatakat.csproj.CopyComplete
+D:\C# Projects\Fatakat\Fatakat\obj\Debug\Fatakat.exe
+D:\C# Projects\Fatakat\Fatakat\obj\Debug\Fatakat.pdb
